@@ -2,3 +2,6 @@
 print("가자1!")
 print("가자2!")
 print("가자3!")
+print("가자4!")
+print("가자5!")
+print("가자6!")
